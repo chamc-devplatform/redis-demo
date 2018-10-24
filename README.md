@@ -1,2 +1,2 @@
 # redis-demo
-xq
+分布式锁demo
